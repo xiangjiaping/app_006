@@ -1,0 +1,9 @@
+info: &data
+  name: "lili"
+  phone: "15171024727"
+address:
+  <<: *data
+  detail: "黑马程序员"
+con:
+  <<: *data
+  bir: "2020-1-1"

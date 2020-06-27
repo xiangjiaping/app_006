@@ -1,0 +1,18 @@
+#注释
+#name: "lili"
+#Name: "lili"
+
+#对象
+#info： {"name":"lili","age":"18"}
+
+#info1:
+#   name: "lili"
+#   age: "18"
+#bool03: True
+#bool04: False
+#value: null
+#value: None
+#date1: 2020-11-11 11:11:11
+##date2: 2020-11-11
+##date3: 11:11:11
+date4: 2020-11-11 1:1:1
